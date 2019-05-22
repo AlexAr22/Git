@@ -1,8 +1,1 @@
-Hello Text_one 5258
-
-fjdkjfkdfsf 
-hfjhkjfs 42 42 33 O Brani
-=======
-
-fjdkjfkd 
->>>>>>> parent of 56e7005... five comment
+Hello Text_one 525t
