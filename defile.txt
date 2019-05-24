@@ -1,9 +1,4 @@
 Hello my Devs
 
 fsdfdsf
-<<<<<<< HEAD
 
-......
-=======
-444444444444
->>>>>>> 7f6eb35f67121c9d832a8256aaa1a7fdd152866f
